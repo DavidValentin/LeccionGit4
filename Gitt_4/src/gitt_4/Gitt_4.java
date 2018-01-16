@@ -16,8 +16,12 @@ public class Gitt_4 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
         System.out.println("Bienvenidos al GITTT");
     }
-    
+
+    public void Frank_branch(){
+
+        System.out.println("El Primer Branch");
+    }
 }
