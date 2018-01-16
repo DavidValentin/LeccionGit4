@@ -19,5 +19,7 @@ public class Gitt_4 {
         
         System.out.println("Bienvenidos al GITTT");
     }
-    
+    public void juanca_branch_A(){
+        System.out.println("Primer Branch A");
+    }
 }
